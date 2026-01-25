@@ -1,5 +1,7 @@
 # 🔐 Cykatools
 
+latest version: 
+https://ko-fi.com/azeuusa
 ![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 

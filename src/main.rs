@@ -8,13 +8,13 @@ fn main() {
   let angka = rand::thread_rng().gen_range(1..=10);
 
   loop {
-      
-  
+
+
   println!("tebak angka 1 -> 10");
 
   let mut input = String::new();
-  
-  
+
+
 
   io::stdin()
   .read_line(&mut input)
@@ -27,12 +27,12 @@ fn main() {
   };
 
 
-  
+
 
   if tebakan == angka {
-
+aasd
     println!("kamu bener");
-      
+
   }
 
   else {
@@ -45,15 +45,15 @@ fn main() {
     break;
   }
 
-  
 
 
 
-  
-    
-  
+
+
+
+
 
    }
 
-    
+
 }

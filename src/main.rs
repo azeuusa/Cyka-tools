@@ -39,7 +39,7 @@ fn main() {
 
     Command::new("sh")
     .arg("-c")
-    .arg("echo 'hello world'")
+    .arg("kitty")
     .output()
     .expect("kanyut");
     break;
